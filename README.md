@@ -16,3 +16,5 @@ They ran Windows 10 but they were older systems and were still able to route the
 	
 It's a fun little program but I see no point in developing it further due to the fact I can't actually tell if it works on my laptop...
 and I'm not in range of a PC that could play it.
+
+**Note 2: beepingPiano.VC.db is too big to add into the repository...Well then.**
