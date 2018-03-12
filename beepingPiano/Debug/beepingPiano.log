@@ -1,0 +1,29 @@
+﻿  beepingPianoMain.cpp
+g:\personal\ncc_documents\computer science i\c++piano\beepingpiano\beepingpiano\beepingpianomain.cpp(94): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+g:\personal\ncc_documents\computer science i\c++piano\beepingpiano\beepingpiano\beepingpianomain.cpp(95): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+g:\personal\ncc_documents\computer science i\c++piano\beepingpiano\beepingpiano\beepingpianomain.cpp(96): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+g:\personal\ncc_documents\computer science i\c++piano\beepingpiano\beepingpiano\beepingpianomain.cpp(97): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+g:\personal\ncc_documents\computer science i\c++piano\beepingpiano\beepingpiano\beepingpianomain.cpp(99): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+g:\personal\ncc_documents\computer science i\c++piano\beepingpiano\beepingpiano\beepingpianomain.cpp(100): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+g:\personal\ncc_documents\computer science i\c++piano\beepingpiano\beepingpiano\beepingpianomain.cpp(101): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+g:\personal\ncc_documents\computer science i\c++piano\beepingpiano\beepingpiano\beepingpianomain.cpp(103): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+g:\personal\ncc_documents\computer science i\c++piano\beepingpiano\beepingpiano\beepingpianomain.cpp(104): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+g:\personal\ncc_documents\computer science i\c++piano\beepingpiano\beepingpiano\beepingpianomain.cpp(105): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+g:\personal\ncc_documents\computer science i\c++piano\beepingpiano\beepingpiano\beepingpianomain.cpp(107): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+g:\personal\ncc_documents\computer science i\c++piano\beepingpiano\beepingpiano\beepingpianomain.cpp(108): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+g:\personal\ncc_documents\computer science i\c++piano\beepingpiano\beepingpiano\beepingpianomain.cpp(109): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+g:\personal\ncc_documents\computer science i\c++piano\beepingpiano\beepingpiano\beepingpianomain.cpp(111): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+g:\personal\ncc_documents\computer science i\c++piano\beepingpiano\beepingpiano\beepingpianomain.cpp(112): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+g:\personal\ncc_documents\computer science i\c++piano\beepingpiano\beepingpiano\beepingpianomain.cpp(113): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+g:\personal\ncc_documents\computer science i\c++piano\beepingpiano\beepingpiano\beepingpianomain.cpp(114): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+g:\personal\ncc_documents\computer science i\c++piano\beepingpiano\beepingpiano\beepingpianomain.cpp(116): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+g:\personal\ncc_documents\computer science i\c++piano\beepingpiano\beepingpiano\beepingpianomain.cpp(117): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+g:\personal\ncc_documents\computer science i\c++piano\beepingpiano\beepingpiano\beepingpianomain.cpp(118): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+g:\personal\ncc_documents\computer science i\c++piano\beepingpiano\beepingpiano\beepingpianomain.cpp(120): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+g:\personal\ncc_documents\computer science i\c++piano\beepingpiano\beepingpiano\beepingpianomain.cpp(121): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+g:\personal\ncc_documents\computer science i\c++piano\beepingpiano\beepingpiano\beepingpianomain.cpp(122): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+g:\personal\ncc_documents\computer science i\c++piano\beepingpiano\beepingpiano\beepingpianomain.cpp(123): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+g:\personal\ncc_documents\computer science i\c++piano\beepingpiano\beepingpiano\beepingpianomain.cpp(125): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+g:\personal\ncc_documents\computer science i\c++piano\beepingpiano\beepingpiano\beepingpianomain.cpp(126): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+  beepingPiano.vcxproj -> G:\Personal\NCC_Documents\Computer Science I\c++Piano\beepingPiano\Debug\beepingPiano.exe
+  beepingPiano.vcxproj -> G:\Personal\NCC_Documents\Computer Science I\c++Piano\beepingPiano\Debug\beepingPiano.pdb (Full PDB)
